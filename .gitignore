@@ -39,3 +39,5 @@ config.rst
 /.project
 /.pydevproject
 
+sjupyter
+triton-bin/
